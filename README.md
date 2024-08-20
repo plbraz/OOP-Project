@@ -9,20 +9,20 @@ The PetShop project is a system for managing pet shop products, including food, 
 The project is organized as follows:
 
 src/
-├── com/
-│ └── petshop/
-│ └── project/
-│ ├── main/
-│ │ └── Menu.java
-│ ├── models/
-│ │ ├── Produtos.java
-│ │ ├── Coleiras.java
-│ │ ├── Potes.java
-│ │ ├── Petiscos.java
-│ │ ├── Racoes.java
-│ │ └── Compra.java
-│ └── utils/
-│ └── Array.java
+com/
+petshop/
+project/
+main/
+- Menu.java
+models/
+- Produtos.java
+- Coleiras.java
+- Potes.java
+- Petiscos.java
+- Racoes.java
+- Compra.java
+utils/
+- Array.java
 
 ## Package and Class Descriptions
 
