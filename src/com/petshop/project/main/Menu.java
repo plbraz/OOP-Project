@@ -1,4 +1,4 @@
-package com.mycompany.projectmaker;
+package com.petshop.project.*;
 import java.util.Scanner;
 
 public class Menu{

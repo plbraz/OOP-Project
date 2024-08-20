@@ -1,4 +1,5 @@
-package com.mycompany.projectmaker;
+package com.petshop.project.*;
+
 import java.util.Scanner;
 
  abstract public class Produtos{
@@ -107,4 +108,3 @@ import java.util.Scanner;
       
       }  
   }   
-
