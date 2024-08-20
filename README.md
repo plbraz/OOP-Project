@@ -12,16 +12,16 @@ src/
 com/
 petshop/
 project/
-# main/
+### main/
 - Menu.java
-# models/
+### models/
 - Produtos.java
 - Coleiras.java
 - Potes.java
 - Petiscos.java
 - Racoes.java
 - Compra.java
-# utils/
+### utils/
 - Array.java
 
 ## Package and Class Descriptions
